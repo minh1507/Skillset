@@ -1,4 +1,5 @@
-Định nghĩa:
+## Định nghĩa:
+
 - JavaScript Là ngôn ngữ lập trình bậc cao.
 - JavaScript là ngôn ngữ thông dịch. $\color{red}1$
 - JavaScript là một ngôn ngữ lập trình prototype-based object-orientation và first-class function. $\color{red}2$
@@ -6,7 +7,8 @@
 - JavaScript tuân theo tiêu chuẩn ECMAScript. $\color{red}4$
 - JavaScript đa mô hình hỗ trợ lập trình hướng sự kiện, chức năng và mệnh lệnh.
 
-Lịch sử hình thành:
+## Lịch sử hình thành:
+
 - JavaScript được phát minh bởi Brendan Eich vào năm 1995.
 - Tên javascript được lấy dựa trên java, ngôn ngữ nổi tiếng tại thời điểm đó. Nhưng javascript khác với java. Mục đích của Eich đặt tên như vậy để marketing gây hiểu nhầm cho cái tên chưa mấy nổi là javascript
 - Nó được phát triển cho Netscape 2 và trở thành tiêu chuẩn ECMA-262 vào năm 1997.
