@@ -4,7 +4,7 @@
 - JavaScript là một ngôn ngữ lập trình prototype-based object-orientation và first-class function. $\color{red}2$
 - JavaScript theo kiểu gõ động (dynamic typing). $\color{red}3$
 - JavaScript tuân theo tiêu chuẩn ECMAScript. $\color{red}4$
-- JavaScript hỗ trợ các phong cách lập trình hướng sự kiện, chức năng và mệnh lệnh.
+- JavaScript hỗ trợ lập trình hướng sự kiện, chức năng và mệnh lệnh.
 
 
 
