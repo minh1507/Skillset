@@ -6,10 +6,6 @@ Chú ý: trong mỗi directory sẽ có một file announcement.md. File này c�
 
 Ngôn ngữ chính: tiếng việt
 
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
 ## Tác giả
 
 - [@DuongDucAnh](https://github.com/minh1507)
