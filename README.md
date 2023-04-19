@@ -20,12 +20,8 @@ Xin chào, tôi là Dương Đức Anh! 👋, tôi là một nhà phát triển 
 
 Ngôn ngữ lập trình chủ đạo: JS, C#, Java.
 
-## Feedback
+## Phản hồi
 
-If you have any feedback, please contact me:
+Nếu bạn có bất kỳ thông tin phản hồi, xin vui lòng liên hệ với tôi:
 - Facebook: https://www.facebook.com/ST.LGZ/
 - Gmail: Duongdoican@gmail.com
-
-## License
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
