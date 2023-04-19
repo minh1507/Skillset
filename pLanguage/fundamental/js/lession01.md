@@ -15,12 +15,11 @@
 - Sau khi Netscape chuyển giao JavaScript cho ECMA, quỹ Mozilla tiếp tục phát triển JavaScript cho trình duyệt Firefox. Phiên bản mới nhất của Mozilla là 1.8.5. (Giống với ES5).
 - Internet Explorer (IE4) là trình duyệt đầu tiên hỗ trợ ECMA-262 Edition 1 (ES1).
 
+|                          Caption                               |
 | Năm  | ECMA     | trình duyệt                                  |
 | :--- | :------- | :-------------------------                   |
 | 1995 | `string` | JavaScript được phát minh bởi Brendan Eich   |
 | 1996 | `string` | Netscape 2 được phát hành với JavaScript 1.0 |
-|                          Caption                               |
-
 
 Tài liệu tham khảo:
 - https://en.wikipedia.org/wiki/JavaScript
