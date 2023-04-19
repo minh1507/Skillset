@@ -19,6 +19,7 @@
 | :--- | :------- | :-------------------------                   |
 | 1995 | `string` | JavaScript được phát minh bởi Brendan Eich   |
 | 1996 | `string` | Netscape 2 được phát hành với JavaScript 1.0 |
+|                          Caption                               |
 
 
 Tài liệu tham khảo:
