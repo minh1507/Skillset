@@ -22,6 +22,14 @@
 | 1997 |          | JavaScript đã trở thành tiêu chuẩn ECMA (ECMA-262) |
 | 1997 | ES1      | ECMAScript 1 đã được phát hành                     |
 | 1997 | ES1      | IE 4 là trình duyệt đầu tiên hỗ trợ ES1            |
+| 1998 | ES2      | ECMAScript 2 đã được phát hành                     |
+| 1998 |          | Netscape 42 được phát hành với JavaScript 1.3      |
+| 1999 | ES2      | IE 5 là trình duyệt đầu tiên hỗ trợ ES2            |
+| 1999 | ES3      | ECMAScript 3 đã được phát hành                     |
+| 2000 | ES3      | IE 5.5 là trình duyệt đầu tiên hỗ trợ ES3          |
+| 2000 |          | Netscape 62 được phát hành với JavaScript 1.5      |
+| 2000 |          | Firefox 1 được phát hành với JavaScript 1.5        |
+
 
 
 ## Tài liệu tham khảo:
