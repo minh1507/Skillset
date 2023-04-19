@@ -23,6 +23,7 @@
 | 1997 | ES1      | ECMAScript 1 đã được phát hành                     |
 | 1997 | ES1      | IE 4 là trình duyệt đầu tiên hỗ trợ ES1            |
 
+
 ## Tài liệu tham khảo:
 
 - https://en.wikipedia.org/wiki/JavaScript
