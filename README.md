@@ -18,7 +18,7 @@ What did you learn while building this project? What challenges did you face and
 
 Xin chào, tôi là Dương Đức Anh! 👋, tôi là một nhà phát triển fullstack mobile app và website. Tôi bắt đầu hoạt động vào năm 2022.
 
-Ngôn ngữ lập trình chủ đạo: JS, C#, Java.
+Ngôn ngữ lập trình chủ đạo: JS, C, C++, C#, Java.
 
 ## Phản hồi
 
